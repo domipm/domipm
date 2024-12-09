@@ -1,13 +1,7 @@
-# Hi! 👋 I'm Domi(nik)
+# Hi! 👋 I'm Dominik
 ### Computational Physics Student
 
-
-I am a recent graduate and master's student in physics, with special interest in computational physics and astrophysics. My main motivation is solving complex problems by combining the theoretical knowledge in physics and mathematics that I have acquired throughout my studies with my skills in programming and numerical simulation. 
-I'm always seeking new opportunities to learn, and I am excited to explore new opportunities that bring together physics, technology, and innovation.
-
-> “Do, or do not. There is no “try” — Yoda
-
-![](https://komarev.com/ghpvc/?domipm)
+> “Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious. And however difficult life may seem, there is always something  you can do and succeed at. It matters that you don't just give up.” — Stephen Hawking (1942 - 2018)
 
 - Computational Physics Student @ SDU
 - 🌱 Currently learning: Physics-Informed Neural Network, Deep Learning, Machine Learning
