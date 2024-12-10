@@ -6,4 +6,4 @@
 - 📚 MSc Physics @ SDU
 - 🌱 Learning / Interests: Deep Learning, Machine Learning, Graphics Programming, ...
 - 🚀 Working on: Physics-Informed Neural Networks
-- 💻 Tools: C++, Python, LaTeX
+- 💻 Skills / Tools: C++, Python / PyTorch, Jupyter Notebook, LaTeX, Linux
